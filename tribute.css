@@ -1,0 +1,49 @@
+body{
+    background-color: #CEE5D0;
+    border: 10px solid;
+    margin: 0 20%;
+
+}
+
+.top-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+h1{
+    font-family: 'Sacramento', cursive;
+    display: inline-block;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+h3{
+    display: inline;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.shinzo-profile{
+    border-radius: 40%;
+}
+
+.bio{
+    width: 90%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.middle-container, .bottom-container{
+    margin-left: 70px;
+}
+
+strong{
+    font-weight: bolder;
+}
